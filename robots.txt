@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hapjeong-karaoke-note.mens-esthe.space/sitemap.xml
+Sitemap: https://hapjeong-karaoke-note.mens-esthe.space/sitemap-pages.xml
